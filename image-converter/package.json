@@ -1,4 +1,11 @@
 {
+  "name": "image-converter",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js tool to convert and resize images.",
+  "main": "image-converter-script-sharp.js",
+  "scripts": {
+    "start": "node image-converter-script-sharp.js"
+  },
   "dependencies": {
     "sharp": "^0.34.3"
   }
