@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node image-renamer.js"
   },
+  "dependencies": {
+    "sharp": "^0.33.2"
+  },
   "author": "",
   "license": "ISC"
 }
