@@ -1,0 +1,11 @@
+{
+  "name": "image-renamer",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js tool to bulk rename images sequentially with a custom prefix.",
+  "main": "image-renamer.js",
+  "scripts": {
+    "start": "node image-renamer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
