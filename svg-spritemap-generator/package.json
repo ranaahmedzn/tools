@@ -1,0 +1,14 @@
+{
+  "name": "svg-spritemap-generator",
+  "version": "1.0.0",
+  "description": "A lightweight tool to merge individual SVG files into a single optimized SVG spritemap.",
+  "main": "svg-generator.js",
+  "scripts": {
+    "start": "node svg-generator.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "author": "",
+  "license": "ISC"
+}
