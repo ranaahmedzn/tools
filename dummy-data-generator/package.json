@@ -1,0 +1,14 @@
+{
+  "name": "dummy-data-generator",
+  "version": "1.0.0",
+  "description": "A Node.js tool to generate realistic dummy JSON data using @faker-js/faker.",
+  "main": "generate-data.js",
+  "scripts": {
+    "start": "node generate-data.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
